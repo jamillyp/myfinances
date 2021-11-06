@@ -1,3 +1,3 @@
 # myfinances
 
-aplicativo para organizar finanças pessoais.
+Aplicativo em React Native para organizar finanças pessoais.
